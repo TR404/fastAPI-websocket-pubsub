@@ -20,8 +20,8 @@ This project demonstrates the use of FastAPI with Redis for implementing publish
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/TR404/fastAPI-websocket-pubsub.git
+cd fastAPI-websocket-pubsub
 ```
 
 ### Build and Run
